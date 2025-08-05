@@ -1,0 +1,15 @@
+#main-header{
+    color:rgb(0, 174, 255);
+    background-color:rgb(242, 226, 121);
+}
+.one{
+    width: 350px;
+    height: 300px;
+}
+.two{
+    color: purple;
+    background-color:rgb(255, 192, 206);
+}
+body{
+    background-color: rgb(134, 249, 249);
+}
